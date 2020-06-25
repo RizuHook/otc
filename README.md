@@ -1,5 +1,5 @@
 -----
-**[EN]** [[RU]](https://github.com/0x000cb/otc/blob/master/todo)
+**[EN]** [[RU]](https://github.com/0x000cb/otc/blob/master/README-ru.md)
 
 And so, during this time a lot of things happened.
 
