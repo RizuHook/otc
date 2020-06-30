@@ -3,5 +3,5 @@
 
 And so, during this time a lot of things happened.
 
-``Discord server: https://discord.gg/E8DQTZ``
+``Discord server: https://discord.gg/8eNPhB9``
 _____
